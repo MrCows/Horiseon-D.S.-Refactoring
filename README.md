@@ -21,7 +21,7 @@ The purpose of this refactoring project is to:
 - Concise and descriptive title element for the webpage.
 
 
-![Horiseon Webpage](./assets/images/mockup.png)
+![Horiseon Webpage](https://mrcows.github.io/Horiseon-D.S.-Refactoring/#search-engine-optimization)
 
 
 ---
