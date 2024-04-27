@@ -1,5 +1,3 @@
-# 01 HTML, CSS, and Git: Code Refactor
-
 ## Description
 
 This project is a refactoring job aimed at improving the accessibility and search engine optimization (SEO) of an existing website. The website belongs to a marketing agency, and the goal is to enhance its codebase to adhere to accessibility standards, optimize it for search engines, and ensure long-term code sustainability.
