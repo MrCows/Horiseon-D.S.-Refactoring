@@ -22,8 +22,3 @@ The purpose of this refactoring project is to:
 
 
 [Horiseon Webpage](https://mrcows.github.io/Horiseon-D.S.-Refactoring/#search-engine-optimization)
-
-
----
-
-This README file provides comprehensive information about the project, its purpose, features, and grading requirements. It serves as a guide for participants to understand, execute, and submit their work for review.
