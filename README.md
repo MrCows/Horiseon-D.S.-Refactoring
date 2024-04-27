@@ -9,6 +9,8 @@ The purpose of this refactoring project is to:
 - Enhance the accessibility of the website to ensure it can be used by people with disabilities, including those using assistive technologies.
 - Improve the website's search engine ranking by implementing SEO best practices.
 - Refactor the codebase to follow industry-standard conventions, improving readability and maintainability.
+- The end result should look like:
+<img src="./assets/images/01-html-css-git-homework-demo.png" width="800" height="1337">
 
 ## Features
 
